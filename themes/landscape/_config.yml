@@ -4,6 +4,7 @@ menu:
   Archives: /archives
 rss: /atom.xml
 
+
 # Content
 excerpt_link: Read More
 fancybox: true
@@ -29,7 +30,8 @@ show_count: false
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+# Put your favicon.ico into `hexo-site/source/` directory.
+favicon: /images/favicon.ico
 twitter:
 google_plus:
 fb_admins:
