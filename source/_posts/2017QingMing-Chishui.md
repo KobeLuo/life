@@ -1,5 +1,5 @@
 ---
-title: 清明节赤水小游
+title: 四洞沟 提鱼网 抓小青虾 😌😌😌~
 type: categories
 comments: false
 date: 2017-04-07 21:20:19
@@ -8,8 +8,44 @@ tags: [旅行, 赤水]
 ---
 
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=17217944&auto=1&height=66"></iframe>
+
+清明小长假，给老人上香之余，跟小姑娘😘一起去了一趟赤水，从泸州城到赤水只需要一个小时左右车程，直奔四洞沟🚗🚗🚗。
+
+停好车，买好票，左一个小巴士就来到了景区入口，小姑娘买了一个网鱼利器准备去沟里网鱼，由于天气还太冷，没有鱼出没，一个🐟也没有网到啊，好桑心~~ -_-  
+不过，鱼不足，虾来凑，开开心心网虾去🚶🚶🚶
+
+---
+<!--more-->
 
 
-![坐船](/LIFESTYLE/images/DSC_4719.JPG)
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=17217944&auto=1&height=66"></iframe> 
+
+四洞沟由四个洞组成，其实就是四个瀑布，一路并肩前行，走了大概20分钟就到了一洞(水帘洞瀑布)，是当年拍摄西游记的地方么❓❓❓水量貌似不太够啊~
+
+<img src="https://dn-anine.qbox.me/DSC_4685.JPG" alt="一洞-水帘洞瀑布" style="zoom:40%" />
+
+---
+爬上一洞，上面就是一个镜湖面，湖面上有很多游船可以供游客坐船，小姑娘拿着渔网坐上小船，信誓旦旦☝️☝️水中网鱼去，可是没有网到啊~😢😢😢，不过坐船的体验还是挺好的，船头有渔家负责划船🚣🚣🚣
+<img src="https://dn-anine.qbox.me/DSC_4696.JPG" alt="湖面" style="zoom:30%" />
+<img src="https://dn-anine.qbox.me/DSC_4715.JPG" alt="小姑娘认真网鱼中..." style="zoom:30%" />
+到坐船终点了，特别麻烦了船夫阿姨等了一下给小姑娘拍了一张照片，淑女样，嗯~
+<img src="https://dn-anine.qbox.me/DSC_4716.jpg" alt="小姑娘说自己是淑女😱" style="zoom:50%" />
+
+下了船，一路往上走，大概走20来分钟就到了二洞(月亮潭瀑布)，倒是没看出来像个月亮🌛🌛🌛，小姑娘在这拍了一张大头贴，👨👩🐵🐙🐷🐤🐨🐮🐔👻🐛🐠都来强势围观~
+<img src="https://dn-anine.qbox.me/DSC_4719.JPG" alt="二洞-月亮潭瀑布" style="zoom:50%" />
+拍完照，一路继续前行，四洞沟景点是两条路中间就是河流，小溪和瀑布，很多地方提供了到溪流出的小通道，
+在二洞上面，我们选择了一个可以往溪流深处走的通道准备去溪流边网鱼🐟🐟🐟 网螃蟹🦀🦀🦀 ，小姑娘踩在最靠近溪流的小碎石上观察数久，
+<img src="https://dn-anine.qbox.me/DSC_4725.jpg" alt="专心观察中。。" style="zoom:40%" />
+突然把渔网放进水中一瓦，我不会告诉你们小姑娘网中了一只小青虾，没错小青虾，晶莹剔透那种~
+<img src="https://dn-anine.qbox.me/DSC_4731.JPG" alt="嗯,小青虾" style="zoom:40%" />
+这之后我们一路沿着溪流往深处走，一个 两个 三个 四个 七个。。。。。抓住了很多小青虾，哈哈哈~把它们放进了早已准备好的酸奶瓶😮😮😮只有一个小青虾的时候，它都不带动的，估计是懵逼了，后来小青虾多了，就在酸奶瓶中转啊转转啊转，好活跃的样子~~~
+
+---
+抓了大概20分钟的小青虾，好几十只，我们继续向前行🚶，又过了20来分钟，我们就走到了三洞，由于时间问题和景点的惊人一致性，我们决定在三洞石凳上小憩一会，吃点东西补充能量，放生小青虾，然后打道回府。
+<img src="https://dn-anine.qbox.me/DSC_4740.JPG" alt="先进的芒果吃法有木有😬" style="zoom:40%" />
+
+放生小青虾，背景太深，小青虾都看不见了啊🙈🙈🙈
+<img src="https://dn-anine.qbox.me/DSC_4744.JPG" alt="放生放生~~" style="zoom:40%" />
+
+放生小青虾后，小姑娘领着我一路下了四洞沟，找露营地去😄😄😄，此处尴尬若干字。。。。。。
 
