@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+  rss: /atom.xml
 
 
 # Content
@@ -31,7 +31,8 @@ show_count: false
 # Miscellaneous
 google_analytics:
 # Put your favicon.ico into `hexo-site/source/` directory.
-favicon: /images/favicon.ico
+favicon: https://dn-anine.qbox.me/favicon.ico
+# favicon: /favicon.ico
 twitter:
 google_plus:
 fb_admins:
