@@ -515,6 +515,9 @@ body {
   -ms-user-select: none;
   user-select: none;
 }
+.TI {
+  text-indent: 2em;
+}
 .article {
   margin: 50px 0;
 }

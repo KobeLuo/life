@@ -6,3 +6,6 @@
   -ms-user-select: none;
   user-select: none;
 }
+p {
+  text-indent: 2em;
+}
