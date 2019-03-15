@@ -6,7 +6,7 @@
 title: Kobe的生活博客
 subtitle:
 description:
-author: 小猪
+author: Kobe哥, Cynthia Chou
 language:
 timezone:
 
@@ -65,9 +65,12 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+aplayer: 
+  meting: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@KobeV5:KobeLuo/LIFESTYLE.git
+  repo: git@github.com:KobeLuo/LIFESTYLE.git
   branch: gh-pages
